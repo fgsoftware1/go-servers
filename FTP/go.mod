@@ -1,4 +1,4 @@
-module ftp
+module sftp
 
 go 1.19
 
